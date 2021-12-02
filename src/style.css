@@ -13,11 +13,11 @@ body{
 }
 
 body.dark {
-	background-image: url('../imgs/dark_bg.jpg');
+	background-image: url('../imgs/Yellow.jpg');
 }
 
 body.light {
-	background-image: url('../imgs/light_bg.jpg');
+	background-image: url('../imgs/Pink.jpg');
 }
 	
 #check {
